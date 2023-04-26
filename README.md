@@ -8,7 +8,7 @@ Course Instructor: Miss Fizza Aqeel
 
 Group members:
 
-Ahad Aziz Jaffer K21-3241 Muhammad Usman K21-4921
+Ahad Aziz Jaffer Muhammad Usman 
 # Introduction:
 
 Remote PowerPoint Controller
